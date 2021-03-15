@@ -1,2 +1,10 @@
-# test_task
-Test task "Lucky Ticket". Serhii Butko
+# Description
+Test task "Lucky Ticket" for the first stage of selection for the internship on .NET in AltexSoft.
+
+Console application determines if the ticket number entered by the user is lucky. 
+The ticket number is a number that can be 4 to 8 digits long. 
+A ticket is considered lucky if the sum of its first half is equal to the sum of the second half. 
+If the user entered a number that contains an odd number of digits, then 0 must be added at the beginning of the ticket number. 
+After displaying the result on the screen, the program should wait for the repeated input of the next ticket number from the user.
+
+Performed by Serhii Butko.
